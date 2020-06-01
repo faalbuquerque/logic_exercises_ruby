@@ -5,7 +5,7 @@ puts "Digite um numero para ver sua tabuada"
 input_num = gets.chomp.to_i
 
 def multiplication(number)
-  mult = 1
+  mult = 0
   while mult < 10
     mult += 1
     calc = mult * number
