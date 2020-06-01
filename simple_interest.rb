@@ -1,5 +1,5 @@
 
-puts "Quanto o valor?"
+puts "Qual é o valor?"
 input_money = gets.chomp.to_f
 
 puts "Qual o juros?"
